@@ -16,5 +16,3 @@ func main() {
 	fmt.Println(stringValues[0])
 	
 }
-
-// save and run command   "go run main.go"

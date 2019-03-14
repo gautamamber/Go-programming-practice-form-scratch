@@ -21,7 +21,7 @@ func division(num1 int, num2 int) int {
 
 // main function must, run automatically
 func main() {
-	fmt.Println("Hello world")
+	
 	fmt.Println(addition(32,20))
 	fmt.Println(subtraction(32,20))
 	fmt.Println(multiplication(32,20))
@@ -29,4 +29,3 @@ func main() {
 
 }
 
-// save and run command   "go run main.go"

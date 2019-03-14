@@ -30,4 +30,3 @@ func main() {
 
 }
 
-// save and run command   "go run main.go"

@@ -28,5 +28,3 @@ func main() {
 	newValues := [3]int{1,2,3}
 	fmt.Println(newValues)
 }
-
-// save and run command   "go run main.go"
